@@ -16,11 +16,11 @@ dependencies {
 }
 
 application {
-    mainClass.set("com.papaguycodes.ApplicationKt")
+    mainClass.set("com.papaguycodes.driver-license-generator-backend.ApplicationKt")
 }
 
 tasks.withType<Jar> {
     manifest {
-        attributes["Main-Class"] = "com.papaguycodes.ApplicationKt"
+        attributes["Main-Class"] = "com.papaguycodes.driver-license-generator-backend.ApplicationKt"
     }
 }
