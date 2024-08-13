@@ -1,1 +1,1 @@
-rootProject.name = "driver-license-generator-backend"
+rootProject.name = "driver-license-generator"
