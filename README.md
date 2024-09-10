@@ -28,7 +28,7 @@ This web application allows users to generate and validate U.S. driver's license
    - Navigate to the `backend` directory.
    - Build and run the backend:
      ```bash
-     ./gradlew run
+     ./gradlew  login run
      ```
 
 4. **Frontend Setup**:
